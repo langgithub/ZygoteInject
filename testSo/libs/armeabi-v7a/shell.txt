@@ -1,0 +1,5 @@
+su
+cp -rp /sdcard/so/testSo.so /data/local/tmp/testSo.so
+cd /data/local/tmp/
+chmod 777 testSo.so
+chmod +x testSo.so
