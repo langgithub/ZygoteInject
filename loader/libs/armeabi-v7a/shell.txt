@@ -3,3 +3,4 @@ cp -rp /sdcard/so/loader /data/local/tmp/loader
 cd /data/local/tmp/
 chmod 777 loader
 chmod +x loader
+
